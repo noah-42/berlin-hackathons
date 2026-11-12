@@ -4,15 +4,16 @@ Upcoming Berlin hackathons and build days, with direct organizer links and clear
 
 **Last checked: 12 November 2026. All times CET (Europe/Berlin).** A checked snapshot, not a live availability feed or an automatic refresh service. Recheck the organizer page before applying or travelling. Nothing here registers you or reserves a place.
 
+**Showing: 12 November-10 December 2026 (next four weeks). Soonest start date first.** This window is a snapshot, not a rolling automatic filter.
+
 ## Upcoming build events
 
-| Dates | Event | Focus and location | Cost / entry |
-| --- | --- | --- | --- |
-| Fri-Sun 13-15 Nov | [48 Hours Filmhack](https://filmhack.ai/) | AI filmmaking. Riverside Studios, Pfuelstraße 5; Sunday premiere at Colosseum Berlin. | Free event; meals are your own expense. Age 18+. Applications currently limited to cinematographers, sound/music, editors and actors. |
-| Fri 20 Nov, 10:00-22:00 | [AI Builders × commIT Hack Day](https://lu.ma/ber-nov20-hday) | Build an AI app, agent or workflow and demo it. ImmoScout24, Invalidenstraße 65. | Paid, flexible-price tickets. Student minimum €1, Early Bird minimum €5, Standard minimum €6. Sponsored tickets may be requested from the host; not guaranteed. |
-| Sat-Sun 21-22 Nov | [Robotics × AI - HackLab](https://luma.com/h0mcaqio) | Physical AI and robotics prototypes. CIC Berlin, Lohmühlenstraße 65. | Free, selective. Luma approval alone is NOT acceptance: the organizer also requires its application form and an acceptance email. |
-| Sat-Sun 28-29 Nov | [Big Berlin Hack](https://lu.ma/bbh) | AI/product hackathon by {Tech: Europe}, with multiple tracks. The Delta Campus / CODE; exact address shown after registration. | Free, application approval required for each participant category. |
-| Fri 11 Dec, 09:30-20:30 | [LOCAL HACK: Copernicus Berlin × AMD](https://copernicusberlin.org/en/local-hack) | Build on-device AI apps with local models and agents. Berlin; address shared with registered guests. | Free, registration requires approval. Teams of 3-4; team matching available. |
+| Event logo | Dates | Event | Focus | Venue / address | Cost / entry |
+| --- | --- | --- | --- | --- | --- |
+| <img src="https://filmhack.ai/og-image.jpg?v=2" width="80" alt="48 Hours Filmhack event artwork"> | <sub>Fri-Sun 13-15 Nov</sub> | <sub>[48 Hours Filmhack](https://filmhack.ai/)</sub> | <sub>AI filmmaking.</sub> | <sub>[Riverside Studios, Pfuelstraße 5](https://www.google.com/maps/search/?api=1&query=Riverside+Studios+%2F+EISBer+Multimedia+GmbH&query_place_id=ChIJ2dUeWE5OqEcRPkX2MU4pDmA); Sunday premiere at [Colosseum Berlin](https://www.google.com/maps/search/?api=1&query=Filmtheater+Colosseum&query_place_id=ChIJ68m30OBTqEcRCpgVKY3-AJw).</sub> | <sub>Free event; meals are your own expense. Age 18+. Applications currently limited to cinematographers, sound/music, editors and actors.</sub> |
+| <img src="https://images.lumacdn.com/api-uploads/wc/acb4817c-b8c4-421d-96c5-662abd6c6e3f.png" width="80" alt="AI Builders × commIT Hack Day event artwork"> | <sub>Fri 20 Nov, 10:00-22:00</sub> | <sub>[AI Builders × commIT Hack Day](https://lu.ma/ber-nov20-hday)</sub> | <sub>Build an AI app, agent or workflow and demo it.</sub> | <sub>[ImmoScout24, Invalidenstraße 65.](https://www.google.com/maps/search/?api=1&query=ImmoScout24&query_place_id=ChIJ5VrfGgBRqEcRU-zIOoPJfu8)</sub> | <sub>Paid, flexible-price tickets. Student minimum €1, Early Bird minimum €5, Standard minimum €6. Sponsored tickets may be requested from the host; not guaranteed.</sub> |
+| <img src="https://images.lumacdn.com/uploads/iq/fda20422-8317-4980-9fc7-7b00238cfdc7.png" width="80" alt="Robotics × AI - HackLab event artwork"> | <sub>Sat-Sun 21-22 Nov</sub> | <sub>[Robotics × AI - HackLab](https://luma.com/h0mcaqio)</sub> | <sub>Physical AI and robotics prototypes.</sub> | <sub>[CIC Berlin, Lohmühlenstraße 65.](https://www.google.com/maps/search/?api=1&query=CIC+Berlin&query_place_id=ChIJ3eqPf3VPqEcRRjD7B-wiUSY)</sub> | <sub>Free, selective. Luma approval alone is NOT acceptance: the organizer also requires its application form and an acceptance email.</sub> |
+| <img src="https://images.lumacdn.com/uploads/77/14b6373d-396a-46ae-922e-58435e0ac6bd.gif" width="80" alt="Big Berlin Hack event artwork"> | <sub>Sat-Sun 28-29 Nov</sub> | <sub>[Big Berlin Hack](https://lu.ma/bbh)</sub> | <sub>AI/product hackathon by {Tech: Europe}, with multiple tracks.</sub> | <sub>The Delta Campus / CODE; exact address shown after registration.</sub> | <sub>Free, application approval required for each participant category.</sub> |
 
 ## Entry details and deadlines
 
@@ -40,21 +41,17 @@ The listing runs **Saturday 09:30 to Sunday 19:00**; its written Saturday agenda
 
 Applications have Founder, Engineer, Researcher / Student, and Product / Design / Commercial categories, each requiring approval. No application cutoff is stated. The event page names The Delta Campus and CODE, but keeps the exact address behind registration. [Apply with the organizer](https://lu.ma/bbh).
 
-### LOCAL HACK - 11 December
-
-A local-AI workshop, team formation, six hours of hacking and prototype presentations. The published event hours are 09:30-20:30; the detailed schedule lists check-in at 09:50, workshop 10:00-11:00 and hacking 12:00-18:00. Confirm the arrival time after approval.
-
-Bring an idea or find teammates. Team size is 3-4. No application cutoff or formal age/student restriction is stated on the checked public page. Address is shared with registered guests. [Official details and registration](https://copernicusberlin.org/en/local-hack).
-
 ## Restricted student hackathon / public demo
 
 [42 × Volkswagen × Databricks Data & AI Hackathon](https://www.eventbrite.de/e/42-x-volkswagen-x-databricks-data-ai-hackathon-the-final-pitches-tickets-2003955497839) runs **19-20 November** for student teams from 42 Berlin and 42 Wolfsburg, working on Volkswagen logistics data. The public listing does **not** establish an open competitor application route or its eligibility rules; ask 42 directly about participation.
 
-The separately advertised **Final Pitches** are open to audience registration on **Fri 20 Nov, 13:30-18:00**, at **42 Berlin, Harzer Straße 39**. Pitches 14:00-16:00, winner announcement/networking 16:30-18:00. This ticket is to watch, not to compete. A ticket price is not visible in the checked event description; confirm on registration.
+The separately advertised **Final Pitches** are open to audience registration on **Fri 20 Nov, 13:30-18:00**, at **[42 Berlin](https://www.google.com/maps/search/?api=1&query=42+Berlin&query_place_id=ChIJteHVQlFPqEcRpDe7mhB93bA), Harzer Straße 39 (organizer address; Google Maps lists Harzer Straße 42)**. Pitches 14:00-16:00, winner announcement/networking 16:30-18:00. This ticket is to watch, not to compete. A ticket price is not visible in the checked event description; confirm on registration.
 
 For technical talks, demos and community evenings, see the separate [Berlin AI Builder Meetups directory](https://github.com/noah-42/berlin-ai-builder-meetups).
 
 ## Sources and scope
+
+Event images are official event artwork from the linked organizer pages, not generic website favicons. Compact table text uses GitHub-supported small text; full entry notes remain below.
 
 Organizer pages linked above were checked on 12 November 2026, including their public event and ticket metadata. Dates were cross-checked with the [AI Builders public Berlin feed](https://aibuilders.club/api/public/events?city=BER), [HackLab's organizer updates](https://hacklabs.beehiiv.com/) and [Big Berlin Hack's directory listing](https://brainberg.eu/events/big-berlin-hack-350-builders-from-all-over-europe-2026-11-28-berlin).
 
